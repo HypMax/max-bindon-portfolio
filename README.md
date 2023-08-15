@@ -15,7 +15,7 @@ In this section, I will showcase some of my data analytics projects, providing a
 
 ### Data Consultancy Utilization Dashboard 
 
-- **Dashboard:** [Tableau dashboard for data consultancy utilization]([https://public.tableau.com/views/Edgedashboardfinal/Dashboardfinaldraft?:language=en-US&:display_count=n&:origin=viz_share_link)])
+- **Dashboard:** [Tableau dashboard for data consultancy utilization](https://public.tableau.com/views/Edgedashboardfinal/Dashboardfinaldraft?:language=en-US&:display_count=n&:origin=viz_share_link)
 - **Description:** This dashboard was created for a data consultancy client who needed an overview of human resource utilization and project typologies to inform strategic decisions such as hiring, skill development and client acquisition. A key performance indicator tracked was having 85% of their consultants’ working hours as billable. 
 - **Skills:** Tableau dashboard, stakeholder mangement, project scoping, data preparation and integration.
 - **Technology:** Tableau.
